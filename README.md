@@ -7,34 +7,23 @@
   <a href="https://www.youtube.com/c/FlameQuard"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 </p>
 
-## 👋 Hello There
-I'm FlameQuard Who Make Video On DiscordBot And Othere But Doesnt Get Support From Users
+<a href="#"><img width="100%" height="auto" src="https://github.com/FlameQuard/FlameQuard/blob/main/20210928_141601.png" height="175px"/></a>
+  
+<a href="#"><img width="100%" height="auto" src="https://github.com/FlameQuard/FlameQuard/blob/main/20210928_142824.png" height="175px"/></a>
 
-- 😮 I Am Bot Developer And Graphic Designer
-- 😃 Most Users Call Me Flame, And My Age Is 16
-- 😊 I Am Working On Our Official Discord Bot FlameQuard
-- 😅 I Dont Know How I Learn Coding But Yea I Learn, Honestly I Have'nt Join Any Course Or Classes Of Coding, All Learn All Things Self, In Android, I Dont Have PC or Laptop
-- 🥺 Wanted To Go Front Of PewDiePie Lol Joking, But Please Subscribe [FlameQuard](https://youtube.com/FlameQuard).
-- I Alway Help Some What 10+ Users Daily, And Save There Time
+<a href="#"><img width="100%" height="auto" src="https://github.com/FlameQuard/FlameQuard/blob/main/20210928_143145.png" height="175px"/></a>
 
-## 💥 Flamers Chill Zone
-
-Be A Part Or Our Flamers Friend Family And Make It Big
-<p>
-<a href="https://discord.gg/TvjrWtEuyP">
-  <img src="https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner2" />
+<p align='center'>
+<a href="https://discord.gg/TvjrWtEuyP"><img width="50%" height="auto" src="https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner2" height="175px"/></a>
 </a>
 
 
-## 📝 My Progress
-
+<p>
+<a href="#"><img width="100%" height="auto" src="https://github.com/FlameQuard/FlameQuard/blob/main/20210928_141707.png" height="175px"/></a>
+<p align='center'>
 <a style="text-decoration: none;" href="https://youtube.com/FlameQuard">
   <img align="center" width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=FlameQuard&theme=gotham&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://youtube.com/FlameQuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlameQuard&theme=gotham&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=FlameQuard&left_color=blue&right_color=red" alt="visitor badge"/>
