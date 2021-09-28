@@ -1,6 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h3 align="center">Hey there, I'm <a href="https://youtube.com/UltraX1">FlameQuard</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+<a href="#"><img width="100%" height="auto" src="https://github.com/FlameQuard/FlameQuard/blob/main/20210928_141229.png" height="175px"/></a>
 
 <p align="center">
   <a href="https://discord.gg/TvjrWtEuyP"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
